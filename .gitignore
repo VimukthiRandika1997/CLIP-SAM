@@ -2,3 +2,4 @@ venv
 *.pth
 model_checkpoints/*
 output/*
+# data/*
